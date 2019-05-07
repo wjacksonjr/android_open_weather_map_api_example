@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">YouTube Weather App</string>
+    <string name="weather_hint">Enter your location…</string>
+</resources>
